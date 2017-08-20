@@ -1,6 +1,4 @@
 # Restful-API
-Restful API having standard HTTP implementations of GET,PUT,PATCH,POST,DELETE,OPTIONs,Token Authorization,SQL Injection,Rate Limiting etc
-
 
 This is a standard implementation of Restful API on a NoSQL Database of books.
 
