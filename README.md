@@ -68,14 +68,14 @@ x-ratelimit-remaining,x-ratelimit-limit<br>
 
 HTTP HEADER
 _______________________________________________
-date: Sun, 20 Aug 2017 10:59:08 GMT <br>            
-x-powered-by: Express      <br>                     
-etag: W/"ad1-eCsmy5tOjoCv7ugSFbgv8WIMiuE" <br>      
-x-ratelimit-remaining: 4             <br>           
-content-type: application/json; charset=utf-8 <br>  
-x-ratelimit-limit: 5                    <br>        
-connection: keep-alive                <br>          
-content-length: 2769                  <br>          
+date: Sun, 20 Aug 2017 10:59:08 GMT            
+x-powered-by: Express                       
+etag: W/"ad1-eCsmy5tOjoCv7ugSFbgv8WIMiuE"    
+x-ratelimit-remaining: 4                      
+content-type: application/json; charset=utf-8 
+x-ratelimit-limit: 5                            
+connection: keep-alive                        
+content-length: 2769                            
 
 
 
