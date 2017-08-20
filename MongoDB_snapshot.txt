@@ -1,0 +1,72 @@
+[  
+  {  
+    "_id":"5996b5c6289317a21d95dea4",
+    "title":"In the MerryLand",
+    "genre":"Romance",
+    "description":"Understnading yourslef",
+    "author":"Rosie McMcullum",
+    "publisher":"The Soul Mates publication",
+    "pages":"500",
+    "image_url":"https://prodimage.images-bn.com/pimages/9780062300546_p0_v8_s550x406.jpg",
+    "buy_url":"https://www.barnesandnoble.com/w/hillbilly-elegy-j-d-vance/1123457475?ean=9780062300546",
+    "publication_year":null,
+    "comments":[  
+      "total bluff",
+      null,
+      null,
+      null,
+      null,
+      "Love is in the air"
+    ],
+    "create_date":"2017-08-20T10:21:35.826Z"
+  },
+  {  
+    "_id":"5996b6d1289317a21d95dea5",
+    "title":"Hillbilly elegy",
+    "genre":"Suspense",
+    "description":"Hillbilly Elegy is a passionate and personal analysis of a culture in crisis—that of white working-class Americans. The decline of this group, a demographic of our country that has been slowly disintegrating over forty years, has been reported on with growing frequency and alarm, but has never before been written about as searingly from the inside. J. D. Vance tells the true story of what a social, regional, and class decline feels like when you were born with it hung around your neck",
+    "author":"Robert Brown",
+    "publisher":"eds and eddy",
+    "pages":"500",
+    "image_url":"https://prodimage.images-bn.com/pimages/9780062300546_p0_v8_s550x406.jpg",
+    "buy_url":"https://www.barnesandnoble.com/w/hillbilly-elegy-j-d-vance/1123457475?ean=9780062300546",
+    "comments":[  
+      "The best thriller I have ever seen",
+      "a must watch",
+      "I liked the dramatic ending"
+    ],
+    "create_date":"2017-08-20T10:21:35.829Z"
+  },
+  {  
+    "_id":"5996c7fed609bd23c0866b5a",
+    "title":"The Special 26",
+    "genre":"Thriller",
+    "description":" Mercer Mann is a young novelist with a severe case of writer’s block who has recently been laid off from her teaching position. She is approached by an elegant, mysterious woman working for an even more mysterious company. A generous offer of money convinces Mercer to go undercover and infiltrate Bruce Cable’s circle of literary friends, ideally getting close enough to him to learn his secrets.",
+    "author":"Barby Grone",
+    "publisher":"The Fox Publications",
+    "pages":"700",
+    "image_url":"https://prodimage.images-bn.com/pimages/9780385543026_p0_v4_s550x406.jpg",
+    "buy_url":"https://www.barnesandnoble.com/w/camino-island-john-grisham/1125683986?ean=9780385543026",
+    "__v":0,
+    "comments":[  
+
+    ],
+    "create_date":"2017-08-18T10:57:02.166Z"
+  },
+  {  
+    "_id":"5997b8af043caf1054adc8bb",
+    "title":"Make your bed awesome",
+    "genre":"Suspense",
+    "description":"How small things change your life",
+    "author":"Llyods bros",
+    "publisher":"eds and eddy",
+    "pages":"500",
+    "image_url":"https://prodimage.images-bn.com/pimages/9780062300546_p0_v8_s550x406.jpg",
+    "buy_url":"https://www.barnesandnoble.com/w/hillbilly-elegy-j-d-vance/1123457475?ean=9780062300546",
+    "__v":0,
+    "comments":[  
+
+    ],
+    "create_date":"2017-08-19T04:03:59.520Z"
+  }
+]
