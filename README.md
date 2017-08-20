@@ -1,6 +1,6 @@
 # Restful-API
 
-This is a standard implementation of Restful API on a NoSQL Database of books.
+This is a standard implementation of Restful API on a NoSQL Database using NodeJS.
 
 Technology Stack
 ___________________________________________________________________________________________________________________________________
