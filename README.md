@@ -66,16 +66,16 @@ ________________________________________________________________________________
 
 x-ratelimit-remaining,x-ratelimit-limit<br>
 
-_____________________________________________________
-date: Sun, 20 Aug 2017 10:59:08 GMT <br>            |
-x-powered-by: Express      <br>                     |
-etag: W/"ad1-eCsmy5tOjoCv7ugSFbgv8WIMiuE" <br>      |
-x-ratelimit-remaining: 4             <br>           |
-content-type: application/json; charset=utf-8 <br>  |
-x-ratelimit-limit: 5                    <br>        |
-connection: keep-alive                <br>          |
-content-length: 2769                  <br>          |
-____________________________________________________|
+HTTP HEADER
+_______________________________________________
+date: Sun, 20 Aug 2017 10:59:08 GMT <br>            
+x-powered-by: Express      <br>                     
+etag: W/"ad1-eCsmy5tOjoCv7ugSFbgv8WIMiuE" <br>      
+x-ratelimit-remaining: 4             <br>           
+content-type: application/json; charset=utf-8 <br>  
+x-ratelimit-limit: 5                    <br>        
+connection: keep-alive                <br>          
+content-length: 2769                  <br>          
 
 
 
